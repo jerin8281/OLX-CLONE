@@ -4,16 +4,17 @@ OLX-CLONE-REACT is a web application that mimics the functionality of OLX, a pop
 ## Contents
 This README file contains the following sections:
 
-1. Installation and usage
-2. Features
-3. Technology
-4. Sreenshots
+- [Installation](#Installation)
+- [Features](#Features)
+- [Technologies](#Technologies)
+- [Screnshots](#Screnshots)
 
-## Installation and usage
+## Installation
 
 
 
 ### Clone this repository
+
 - git clone https://github.com/jerin8281/OLX-CLONE-REACT.git
 - cd OLX-CLONE-REACT
 
@@ -33,8 +34,9 @@ Some of the features of this project are:
 - Users can contact sellers via phone number and negotiate the deals
 - Users can sign in with email and password
 
-## Technology
+## Technologies
 This project uses the following technologies:
+
 1. React: A JavaScript library for building user interfaces
 2. CSS: A style sheet language that defines how HTML elements are displayed on a web page
 3. Firebase: A platform for developing web and mobile applications with authentication, database, storage, and hosting services
